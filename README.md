@@ -8,7 +8,7 @@ Usage
 
 Include the script
 
-```
+```html
 	<script src="js/impressAutoAdv.js"></script>
 ```
 
@@ -22,4 +22,4 @@ need to add a _data-autoadv_ attribute:
 ```
 
 The value is used as a timeout in seconds after which the slide will be
-auto advanced. To advance immediately just use a not zero small value.
+auto advanced. To advance immediately just use a not zero, but small, value.
